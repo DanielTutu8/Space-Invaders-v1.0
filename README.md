@@ -7,3 +7,5 @@ The game will be improved in further versions
 I want to add: more bullets at once
                reset button
                levels (just an ideea)
+
+Cheers!
